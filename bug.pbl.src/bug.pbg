@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Libraries
+ "bug.pbl" "";
+@end;
+@begin Objects 
+ "bug.sra" "bug.pbl";
+ "lw_main.srw" "bug.pbl";
+@end;
